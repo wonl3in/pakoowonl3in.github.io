@@ -124,7 +124,7 @@ body{
 }
 
 .texts{
-    font-family: 'Noto Sans KR', sans-serif;
+    font-family: 'Poor Story', cursive;
     position: absolute;
     top: 50%;
     left: 75%;
@@ -136,7 +136,7 @@ body{
 }
 
 .profile{
-    font-family: 'Noto Sans KR', sans-serif;
+    font-family: 'Raleway', sans-serif;
 }
 
 .profile > h2 {
@@ -159,7 +159,7 @@ body{
 }
 
 .usedtools {
-    font-family: 'Noto Sans KR', sans-serif;
+    font-family: 'Raleway', sans-serif;
     position: absolute;
     top: 50%;
 }
@@ -180,7 +180,7 @@ body{
 }
 
 .contact{
-    font-family: 'Noto Sans KR', sans-serif;
+    font-family: 'Raleway', sans-serif;
     position: absolute;
     top: 75%;
 }
