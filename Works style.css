@@ -68,7 +68,7 @@ footer {
 /* -----네비바 설정 데스크탑 ------*/
 .navibar{
     position: fixed;
-    left: 50%; transform: translateX(-50%);
+    left: 51.7%; transform: translateX(-50%);
     z-index: 1;
     font-family: 'Raleway', sans-serif;
     z-index: 99;

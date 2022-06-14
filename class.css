@@ -29,7 +29,7 @@ body
 .navibar{
     position: absolute;
     top: 2%;
-    left: 52%; transform: translateX(-50%);
+    left: 53%; transform: translateX(-50%);
     z-index: 1;
     font-family: 'Raleway', sans-serif;
     z-index: 99;
