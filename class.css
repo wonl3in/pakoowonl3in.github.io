@@ -69,8 +69,8 @@ body
 .container .card
 {
     position: relative;
-    width: 220px;
-    height: 250px;
+    width: 260px;
+    height: 260px;
     background: #000000;
     display: flex;
     justify-content: center;
