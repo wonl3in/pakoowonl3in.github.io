@@ -82,6 +82,11 @@
     
 }
 
+::-webkit-scrollbar
+{
+    display: none;
+}
+
 .container
 {
     position: relative;

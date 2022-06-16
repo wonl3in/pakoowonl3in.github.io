@@ -8,6 +8,13 @@
     box-sizing: border-box;
     font-family: 'Raleway', sans-serif;
 }
+
+::-webkit-scrollbar
+{
+    display: none;
+}
+
+
 body
 {
     display: flex;
