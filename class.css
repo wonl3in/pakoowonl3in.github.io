@@ -26,6 +26,7 @@ body
 
 .box1
 {
+    font-family: 'Noto Sans KR', sans-serif;
     text-align: center;
     color: #fff;
 }
@@ -260,6 +261,7 @@ body
 }
 
 .page{
+    font-family: 'Noto Sans KR', sans-serif;
     font-size: 17px;
     position: absolute;
     color: #fff;
@@ -273,5 +275,6 @@ body
 }
 
 .port{
+    font-family: 'Noto Sans KR', sans-serif;
     font-size: 10px;
 }
